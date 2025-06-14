@@ -5,7 +5,7 @@ This project explores and compares various machine learning models to predict IM
 ---
 
 ## 📁 Project Structure
-
+```
 ├── Code/
 │ ├── data_description.ipynb
 │ └── preprocessing and model training.ipynb
@@ -13,7 +13,7 @@ This project explores and compares various machine learning models to predict IM
 │ ├── IMDb movies.csv
 │ └── IMDb ratings.csv
 ├── README.md
-
+```
 ---
 
 ## 🧠 Models Used
